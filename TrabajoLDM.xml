@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+    <rss version="2.0">
+        <channel>
+        <title>Trabajo Lenguaje de marcas</title>
+        <link>https://github.com/289807/trabajoLDM</link>
+        <description> Primer link a la página en general </description>
+            <item>
+            <title> DÍA 1</title>
+            <link>https://github.com/289807/trabajoLDM/blob/master/LDM-dia1.html</link>
+            <description>cosas que pasaron el día 1 del trabajo</description>
+            </item>
+
+            <item>
+            <title> DÍA 2</title>
+            <link>https://github.com/289807/trabajoLDM/blob/master/LDM-dia2.html</link>
+            <description>cosas que pasaron el día 2 del trabajo</description>
+            </item>
+
+            <item>
+            <title> DÍA 3</title>
+            <link>https://github.com/289807/trabajoLDM/blob/master/LDM-dia3.html</link>
+            <description>cosas que pasaron el día 3 del trabajo</description>
+            </item>
+
+            <item>
+            <title> DÍA 4</title>
+            <link>https://github.com/289807/trabajoLDM/blob/master/LDM-dia4.html</link>
+            <description>cosas que pasaron el día 4 del trabajo</description>
+            </item>
+
+            <item>
+            <title> DÍA 5</title>
+            <link>https://github.com/289807/trabajoLDM/blob/master/LDM-dia5.html</link>
+            <description>cosas que pasaron el día 5 del trabajo</description>
+            </item>
+
+            <item>
+            <title> DÍA 6</title>
+            <link>https://github.com/289807/trabajoLDM/blob/master/LDM-dia6.html</link>
+            <description>cosas que pasaron el día 6 del trabajo</description>
+            </item>
+
+            <item>
+            <title> DÍA 7</title>
+            <link>https://github.com/289807/trabajoLDM/blob/master/LDM-dia7.html</link>
+            <description>cosas que pasaron el día 7 del trabajo</description>
+            </item>
+        </channel>
+    </rss>
